@@ -5,5 +5,10 @@ body {
 }
 
 header {
-    
+    background-color: rgb(255, 123, 0);
+    color: white;
+    text-align: center;
+    padding: 2px;
 }
+
+nav
