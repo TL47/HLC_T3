@@ -33,7 +33,7 @@ nav a:hover {
 .container {
     display: flex;
     justify-content: space-around;
-    margin-top: 50px;
+    margin-top: 10px;
 }
 
 .box {
@@ -41,15 +41,24 @@ nav a:hover {
     color: white;
     padding: 10px;
     margin: 10px;
-    width: 45%;
+    width: 50%;
     border-radius: 5px;
     text-align: justify;
     box-shadow:  0 4px 8px 5px rgba(0, 0, 0, 0.473);
     font-size: 20px;
 }
 
+.imagen {
+    text-align: center;
+    margin-top: 20px;
+}
+
+h3 {
+    color:  rgb(255, 123, 0);
+}
+
 footer {
-    background-color: rgba(128, 128, 128, 0.384);
+    background-color: rgba(128, 128, 128, 0.295);
     color: white;
     padding: 20px;
     position: fixed;
